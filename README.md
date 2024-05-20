@@ -177,14 +177,14 @@ INSERT INTO hewan (id, name, owner, species, sex) VALUES
 
 ![alt text](ss/2.4.png)
 
--Hamster, Female: 1 hewan
--Cat, Female: 1 hewan
--Cat, Male: 1 hewan
--Dog, Female: 1 hewan
--Dog, Male: 2 hewan
--Bird, Female: 1 hewan
--Bird, NULL: 1 hewan
--Snake, Male: 1 hewan
+- Hamster, Female: 1 hewan
+- Cat, Female: 1 hewan
+- Cat, Male: 1 hewan
+- Dog, Female: 1 hewan
+- Dog, Male: 2 hewan
+- Bird, Female: 1 hewan
+- Bird, NULL: 1 hewan
+- Snake, Male: 1 hewan
 
 ### 5. Jumlah hewan berdasarkan spesies (cat dan dog saja) dan jenis kelamin:
 

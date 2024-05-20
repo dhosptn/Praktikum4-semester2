@@ -76,9 +76,10 @@ Query ini menghitung jumlah total pegawai dalam tabel. Hasilnya adalah:
 ### 5. Jumlah total gaji di tabel pegawai:
 
 ![alt text](ss/1.5.png)
+
 Query ini menghitung total gaji yang diberikan kepada semua pegawai. Hasilnya adalah:
 
-Total gaji: 10.000.000
+- Total gaji: 10.000.000
 
 ### 6. Rata-rata gaji pegawai:
 
